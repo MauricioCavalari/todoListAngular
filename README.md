@@ -6,3 +6,6 @@ Todo list desenvolvido com Angular utilizando localStorage para armazenar os ite
 
 ### Tela após clicar em 'Nova Tarefa'
 ![TelaInicial2](https://user-images.githubusercontent.com/60328127/111240932-e79b2000-85da-11eb-9a3b-c29ab7f026a5.PNG)
+
+### Tela com algumas tarefas já adicionadas
+![tarefas](https://user-images.githubusercontent.com/60328127/111241372-b7a04c80-85db-11eb-96b0-2405876199a9.PNG)
